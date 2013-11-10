@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/del_elem"
+        android:title="@string/delete_elems"/>
+    <item
+        android:id="@+id/cop_elem"
+        android:title="@string/copy_elems"/>
+    <item
+        android:id="@+id/mov_elem"
+        android:title="@string/move_elems"/>
+
+</menu>

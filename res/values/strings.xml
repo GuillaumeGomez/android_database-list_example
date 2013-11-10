@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DbExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_element">Add element</string>
+    <string name="h_hint">Enter title</string>
+    <string name="but_ok">OK</string>
+    <string name="move_elems">Move selected elements</string>
+    <string name="delete_elems">Delete selected elements</string>
+    <string name="copy_elems">Copy selected elements</string>
+
+</resources>
